@@ -1,0 +1,8 @@
+[submodule "dependencies/googletest"]
+	path = dependencies/googletest
+	url = https://github.com/google/googletest
+	
+[submodule "dependencies/stdexec"]
+	path = dependencies/stdexec
+	url = https://github.com/nvidia/stdexec
+

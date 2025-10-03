@@ -1,0 +1,6 @@
+.build/
+.cache/
+.install/
+out/
+build/
+install/
