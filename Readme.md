@@ -1,5 +1,6 @@
 ## Stdexec, sender & coroutines examples
 
-Some examples for senders & receivers and examples
+Some examples for senders & receivers
+
 
 
